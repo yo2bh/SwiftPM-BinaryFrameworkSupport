@@ -1,1 +1,3 @@
-# SwiftPM-BinaryFrameworkSupport
+# BinaryFrameworkSupport
+
+A description of this package.
